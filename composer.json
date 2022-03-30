@@ -1,5 +1,5 @@
 {
-  "name": "sevencooks-gmbh-co-kg/apple-sign-in-php-sdk",
+  "name": "azimolabs/apple-sign-in-php-sdk",
   "description": "Library to verify and validate Apple IdentityToken and authenticate a user with Apple ID.",
   "type": "library",
   "license": "MIT",
